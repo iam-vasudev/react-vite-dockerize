@@ -37,8 +37,3 @@ Stop the container (if your want)
 ```
 docker-compose down
 ```
-# react-vite-dockerize
-# react-vite-dockerize
-# react-vite-dockerize
-# react-vite-dockerize
-# react-vite-dockerize
